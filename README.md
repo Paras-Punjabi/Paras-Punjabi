@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Punjabi</h1>
-<h3 align="center">I am a Full Stack Web Developer | MERN Stack Developer | AI/ML/DL Enthusiast</h3>
+<h3 align="center">I am a Full Stack Web Developer | MERN Stack Developer | AI/ML/DL Developer</h3>
 
 - 🌱 I’m currently learning **Devops**
 
