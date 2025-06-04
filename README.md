@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-paras-punjabi.vercel.app/](https://portfolio-paras-punjabi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://paras-punjabi.vercel.app/](https://paras-punjabi.vercel.app/)
 
 - 📫 How to reach me **paraspunjabi2002@gmail.com or +916204723921**
 
