@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paras-punjabi.vercel.app/](https://paras-punjabi.vercel.app/)
 
-- 📫 How to reach me **paraspunjabi2002@gmail.com or +916204723921**
+- 📫 How to reach me **paraspunjabi2002@gmail.com or +918989834510**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
