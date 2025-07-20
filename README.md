@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Punjabi</h1>
 <h3 align="center">I am a Full Stack Web Developer | MERN Stack Developer | AI/ML/DL Developer</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops, HLD, LLD and Microservices Architecture**
 
 - 👨‍💻 All of my projects are available at [https://paras-punjabi.vercel.app/](https://paras-punjabi.vercel.app/)
 
